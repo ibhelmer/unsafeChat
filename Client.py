@@ -1,5 +1,6 @@
-# Client
-# TCP Client Code
+# Client.py
+# Simple one-way chat, client recive message from server !!
+# Ib Helmer Nielsen, UCN october 2020
 
 host = "127.0.0.1"               # Set to address of server
 port = 7913                      # Set to port used by server
