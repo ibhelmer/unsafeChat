@@ -1,6 +1,6 @@
 # server.py
 # Simple one-way chat, server send message to client !!
-# # Ib Helmer Nielsen, UCN october 2020
+# Ib Helmer Nielsen, UCN october 2020
 
 host = "127.0.0.1"                     # Set the server address to your PC's IP address
 port = 7913                            # Sets port to 7913 ( > 1023)
